@@ -107,8 +107,6 @@ shared-app/
 │   │   ├── close.svg        # Иконка закрытия
 │   │   ├── success-icon.svg # Иконка успешного действия
 │   │   └── error-icon.svg   # Иконка ошибки
-│   └── utils/
-│   │   └── api.js           # Общие API-утилиты
 │   └── vendor/              # Шрифты
 │       
 ├── webpack.config.js
